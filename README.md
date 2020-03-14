@@ -1,13 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Interface was built with[https://bulma.io/](https://bulma.io/).
-Application contain following pages:
-/ - home
-/login - login and password entry page
-/news - news page
-/profile - a page with free text, unavailable without authorization(protected route)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br />
+Interface was built with[https://bulma.io/](https://bulma.io/).<br />
+Application contain following pages:<br />
+/ - home<br />
+/login - login and password entry page<br />
+/news - news page<br />
+/profile - a page with free text, unavailable without authorization(protected route)<br />
 
-Auth bool saves to local storage with React-persist library.
-Used redux library for managing auth.
+Auth bool saves to local storage with redux-persist library.<br />
+Used redux library for managing auth.<br />
 
 
 ## Available Scripts
